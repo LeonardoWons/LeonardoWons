@@ -1,4 +1,4 @@
-### Ola! Me chamo Leonardo Wons e sou proramador Python 🐍 e minha paixão é automatizar tudo que for possivel.
+### Ola! Me chamo Leonardo Wons e sou proramador Python 🐍 e minha paixão é automatizar tudo que for possivel, ou até o impossivel.
 
 📚 Atualmente venho estudando os frameworks do Python para me especializar e aprofundar ainda mais.
 
